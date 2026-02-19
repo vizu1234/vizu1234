@@ -1,0 +1,23 @@
+Hi Im vizu
+I love coding and building applications. I’m into low and high-level programming, networking, reverse engineering, game hacking, and cyber security.
+
+## Contact
+* **Discord:** https://discord.com/users/1383928474925797537
+
+## Socials
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/vizu1234)
+
+## Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge\&logo=digitalOcean\&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+## GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=vizu1234\&theme=rose_pine\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vizu1234\&theme=rose_pine\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
