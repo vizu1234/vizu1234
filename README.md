@@ -1,4 +1,4 @@
-Hi Im vizu
+<h1 align="center">Hey, I'm <span style="color:#b86bff;">vizu</span></h1>
 I love coding and building applications. I’m into low and high-level programming, networking, reverse engineering, game hacking, and cyber security.
 
 <p align="center">
