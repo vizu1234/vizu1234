@@ -1,6 +1,10 @@
 Hi Im vizu
 I love coding and building applications. I’m into low and high-level programming, networking, reverse engineering, game hacking, and cyber security.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20Views&color=6f00ff&style=flat" alt="Profile View Counter" style="border-radius:24px;"/>
+</p>
+
 ## Contact
 * **Discord:** https://discord.com/users/1383928474925797537
 
