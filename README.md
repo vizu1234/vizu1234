@@ -17,6 +17,7 @@ I love coding and building applications. I’m into low and high-level programmi
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+https://skillicons.dev/icons?i=c,cpp,html,css,js,bash,php,vscode,visualstudio,windows&theme=dark
 
 ## GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=vizu1234\&theme=rose_pine\&hide_border=false)
